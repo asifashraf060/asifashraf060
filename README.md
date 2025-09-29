@@ -1,6 +1,6 @@
 # Asif Ashraf
 
-`**Earth Science || Physics || Computer Science**`
+**`Earth Science || Physics || Computer Science`**
 
 PhD candidate in Geophysics at the University of Oregon, working at the intersection of seismic imaging, machine learning, and high-performance computing. My research broadly revolves around **imaging and sensing the Earth**—from crustal structure to subduction zone dynamics.
 
